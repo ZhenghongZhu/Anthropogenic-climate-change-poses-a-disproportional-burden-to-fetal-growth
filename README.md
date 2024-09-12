@@ -1,2 +1,2 @@
-# Anthropogenic-climate-change-poses-a-disproportional-burden-to-fetal-growth
-R code to reproduce the statistical analysis and drawing of my paper  Coming soon.
+# Estimating the burden of temperature-related low birth weight attributable to anthropogenic climate change in low- and middle-income countries: a retrospective, multicentre, epidemiological study
+R code and data are used to reproduce the charts in this paper..
